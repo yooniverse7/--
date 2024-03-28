@@ -10,5 +10,6 @@ public class 백준2_3 {
         }else{
             System.out.println(0);
         }
+        s.close();
     }
 }

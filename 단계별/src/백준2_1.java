@@ -13,5 +13,6 @@ public class 백준2_1 {
         }else{
             System.out.println("==");
         }
+        s.close();
     }
 }

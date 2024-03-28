@@ -14,6 +14,7 @@ public class 백준3_2 {
         for(int result : arr) {
             System.out.println(result);
         }
+        s.close();
     }
     
 }

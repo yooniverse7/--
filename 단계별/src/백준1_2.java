@@ -10,5 +10,6 @@ public class 백준1_2 {
 
         System.out.println(a + b);
 
+        s.close();
     }
 }

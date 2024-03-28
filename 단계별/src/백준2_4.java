@@ -16,5 +16,6 @@ public class 백준2_4 {
         }else {
             System.out.println(4);
         }
+        s.close();
     }
 }

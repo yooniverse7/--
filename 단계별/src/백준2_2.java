@@ -15,6 +15,7 @@ public class 백준2_2 {
         }else {
             System.out.println("F");
         }
+        s.close();
     }
     
 }

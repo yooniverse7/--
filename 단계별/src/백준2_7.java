@@ -38,6 +38,7 @@ public class 백준2_7 {
                 System.out.println(1000 + b*100);
             }    
         }
+        s.close();
     }
     
 }

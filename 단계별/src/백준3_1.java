@@ -10,5 +10,6 @@ public class 백준3_1 {
             int result = a * i;
             System.out.println(a + " * " + i + " = " + result );
         }
+        s.close();
     }
 }

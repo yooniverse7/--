@@ -21,5 +21,6 @@ public class 백준2_6 {
             System.out.println(h + " " + min);
         
         }
+        s.close();
     }
 }

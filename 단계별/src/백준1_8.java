@@ -6,6 +6,7 @@ public class 백준1_8 {
         int year;
         year = s.nextInt();
         System.out.println(year - 543);
+        s.close();
     }
     
 }
