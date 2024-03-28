@@ -20,7 +20,6 @@ public class 백준4_5 {
                 arr[x] = c;
             }
         }
-        // 배열 출력
         for (int val : arr) {
             System.out.print(val + " ");
         }
