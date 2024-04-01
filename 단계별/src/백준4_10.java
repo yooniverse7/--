@@ -28,6 +28,7 @@ public class 백준4_10 {
         System.out.println(avg/n);
         s.close();
 
+        
 
     }
 }
