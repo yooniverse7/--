@@ -21,13 +21,11 @@ public class 백준4_10 {
             }
         }
         float avg = 0;
-
         //평균구해서 출력하기
         for(int j = 0; j<n; j++) {
             avg += (float)arr[j]/max*100; //나눗셈 연산 시 실수로 나오고 싶다면 실수형 붙여줘야함
         }
-        avg/=n;
-        System.out.println(avg);
+        System.out.println(avg/n);
         s.close();
 
 
